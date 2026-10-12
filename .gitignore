@@ -4,3 +4,6 @@ a.out
 *.o
 a.out
 *.o
+a.out
+*.o
+*.txt
